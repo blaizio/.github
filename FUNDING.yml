@@ -1,0 +1,5 @@
+# Organization-wide Sponsor button: applies to every blaizio repository that has no FUNDING.yml of its own.
+#   github: the GitHub Sponsors profile of the blaizio organization.
+#   open_collective: enable once the Blaizio collective exists.
+github: blaizio
+# open_collective: blaizio-ui
